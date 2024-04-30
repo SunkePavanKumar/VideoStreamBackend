@@ -47,6 +47,6 @@ Before running this application, make sure you have the following installed:
        npm start
    ```
 
-   6: Application will serve on port 5000
+6. Application will serve on port 5000
 
-6. Navigate to the frontend folder. Open the index.html. Now you can see the video is being served.(streamed)
+7. Navigate to the frontend folder. Open the index.html. Now you can see the video is being served.(streamed)
